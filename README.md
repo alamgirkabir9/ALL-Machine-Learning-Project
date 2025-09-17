@@ -8,7 +8,7 @@ A comprehensive collection of machine learning projects implementing various pre
 MachineLearning-ALL-Project/
 ├── DiabetesPredictFunction.ipynb    # Diabetes prediction model
 ├── student_performance.ipynb        # Student performance analysis
-├── titanic_survival.ipynb          # Titanic survival prediction
+├── Survived Pclass.ipynb          # Titanic survival prediction
 └── README.md                       # Project documentation
 ```
 
@@ -59,7 +59,7 @@ Analyzes and predicts student academic performance using linear regression.
 - **Output:** Performance Index prediction
 
 ### 3. Titanic Survival Prediction
-**File:** `titanic_survival.ipynb`
+**File:** `Survived Pclass.ipynb`
 
 Predicts passenger survival on the Titanic using historical data and classification algorithms.
 
